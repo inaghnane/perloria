@@ -4,14 +4,19 @@ Ce projet vise à offrir une expérience utilisateur fluide pour découvrir et a
 
 
 ## 🚀 Fonctionnalités
--Catalogue varié de bijoux.
--E-commerce avec WooCommerce.
+- Catalogue varié de bijoux.
+- E-commerce avec WooCommerce.
 
 ## ✨ Technologies utilisées
 - **WordPress** : CMS principal.
 - **WooCommerce** : Plugin de commerce électronique.
 - **MySQL** : Gestion de la base de données.
-  
+
+## 📋 Prérequis
+- **WAMP** pour l'environnement local.
+- **Git** pour cloner le projet.
+- **Navigateur** (Chrome, Firefox, etc.) pour tester le site.
+
 ## 🛠️ Installation
 1. Cloner le projet :  
    ```bash
