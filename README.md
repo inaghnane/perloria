@@ -36,9 +36,12 @@ Ce projet a pour objectif d'offrir une expérience utilisateur fluide et intuiti
 - **Navigateur:** Navigateur moderne tel que Google Chrome, Mozilla Firefox ou Microsoft Edge pour une compatibilité maximale avec les fonctionnalités du site.
 
 ## 🛠️ L'accès au site en ligne
-Visitez : http://perloria.me/ avec certificat SSL pour une connexion sécurisée.
-Pour se connecter autant qu'Administrateur
+Visitez : https://perloria.me/ avec certificat SSL pour une connexion sécurisée.
+
+Pour se connecter autant qu'Administrateur :
+
 Nom d'utilisateur : admin
+
 Mot de passe : Perliria@admin
 
 
