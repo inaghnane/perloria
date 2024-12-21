@@ -35,14 +35,13 @@ Ce projet a pour objectif d'offrir une expérience utilisateur fluide et intuiti
 - **Git:** Logiciel de gestion de version pour cloner, synchroniser et suivre les modifications du projet.
 - **Navigateur:** Navigateur moderne tel que Google Chrome, Mozilla Firefox ou Microsoft Edge pour une compatibilité maximale avec les fonctionnalités du site.
 
-## 🛠️ Installation
-1. Cloner le projet :  
-   ```bash
-   cd c:/wamp64/www
-   git clone https://github.com/inaghnane/perloria.git
-2. Création de la base de données via : http://localhost/phpmyadmin
-3. Importer la base : 'perloria.sql' via phpMyAdmin.
-4. Accéder au site en ligne :Visitez : http://perloria.me/ avec certificat SSL pour une connexion sécurisée.
+## 🛠️ L'accès au site en ligne
+Visitez : http://perloria.me/ avec certificat SSL pour une connexion sécurisée.
+Pour se connecter autant qu'Administrateur
+Nom d'utilisateur : admin
+Mot de passe : Perliria@admin
+
+
 
 ### Pages clés du site :
 **Login Page :** Page de connexion permettant aux utilisateurs et administrateurs d'accéder à leurs comptes respectifs.
