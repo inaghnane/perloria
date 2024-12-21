@@ -55,3 +55,12 @@ Mot de passe : Perliria@admin
 
 **Product Details :** Pages individuelles présentant des descriptions détaillées, des images haute résolution et des avis clients.
 
+## Informations sur le domaine et l'hébergement
+
+- **Domaine** : [perloria.me](https://perloria.me), acheté via [Namecheap](https://www.namecheap.com/).
+- **Certificat SSL** : Configuré et activé avec Namecheap pour assurer une navigation sécurisée.
+- **Hébergement** : Le site est hébergé sur un serveur cloud de [DigitalOcean](https://www.digitalocean.com/) pour garantir des performances et une fiabilité optimales.
+
+Pour toute question ou assistance, n'hésitez pas à nous contacter.
+
+
